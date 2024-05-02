@@ -2,7 +2,7 @@
 
 *A Telegram Bot, Which can send you restricted content by it's post link*
 
----https://www.herokucdn.com/deploy/button.svg
+---
 
 ## Variables
 
